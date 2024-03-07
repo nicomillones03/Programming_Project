@@ -1,0 +1,132 @@
+2024-03-07 16:02:00,559: root: INFO: SwingHigh : Executing the initialize lifecycle method
+2024-03-07 16:02:01,095: root: INFO: Current backtesting datetime 2023-12-01 08:30:00-05:00
+2024-03-07 16:02:01,096: root: INFO: SwingHigh : Executing the before_market_opens lifecycle method
+2024-03-07 16:02:01,096: root: INFO: Current backtesting datetime 2023-12-01 09:30:00-05:00
+2024-03-07 16:02:01,096: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2024-03-07 16:02:01,097: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,097: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,103: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,103: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,103: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,103: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,103: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,104: root: INFO: SwingHigh : Sleeping for 86400 seconds
+2024-03-07 16:02:01,104: root: INFO: Current backtesting datetime 2023-12-02 09:30:00-05:00
+2024-03-07 16:02:01,104: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,104: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,105: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,105: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,105: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,105: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,105: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,106: root: INFO: Current backtesting datetime 2023-12-02 09:25:00-05:00
+2024-03-07 16:02:01,106: root: INFO: Current backtesting datetime 2023-12-02 09:25:00-05:00
+2024-03-07 16:02:01,106: root: INFO: SwingHigh : Executing the after_market_closes lifecycle method
+2024-03-07 16:02:01,106: root: INFO: Current backtesting datetime 2023-12-04 08:30:00-05:00
+2024-03-07 16:02:01,107: root: INFO: SwingHigh : Executing the before_market_opens lifecycle method
+2024-03-07 16:02:01,107: root: INFO: Current backtesting datetime 2023-12-04 09:30:00-05:00
+2024-03-07 16:02:01,107: root: INFO: SwingHigh : Executing the before_starting_trading lifecycle method
+2024-03-07 16:02:01,107: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,107: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,108: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,108: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,108: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,108: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,108: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,109: root: INFO: SwingHigh : Sleeping for 86400 seconds
+2024-03-07 16:02:01,109: root: INFO: Current backtesting datetime 2023-12-05 09:30:00-05:00
+2024-03-07 16:02:01,109: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,109: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,109: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,109: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,109: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,110: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,110: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,110: root: INFO: SwingHigh : Sleeping for 86400 seconds
+2024-03-07 16:02:01,110: root: INFO: Current backtesting datetime 2023-12-06 09:30:00-05:00
+2024-03-07 16:02:01,110: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,110: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,111: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,111: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,111: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,111: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,111: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,112: root: INFO: SwingHigh : Sleeping for 86400 seconds
+2024-03-07 16:02:01,112: root: INFO: Current backtesting datetime 2023-12-07 09:30:00-05:00
+2024-03-07 16:02:01,112: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,112: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,112: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,113: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,113: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,113: root: INFO: SwingHigh : Sleeping for 86400 seconds
+2024-03-07 16:02:01,113: root: INFO: Current backtesting datetime 2023-12-08 09:30:00-05:00
+2024-03-07 16:02:01,113: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,113: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,114: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,114: root: INFO: SwingHigh : Position: None
+2024-03-07 16:02:01,114: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,114: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,114: root: INFO: SwingHigh : Last 3 prints: [130.3699951171875, 132.89999389648438, 136.60000610351562]
+2024-03-07 16:02:01,114: root: INFO: SwingHigh : Entry price : 136.60000610351562
+2024-03-07 16:02:01,114: root: INFO: SwingHigh : Trading iteration ended at 2024-03-07 16:02:01
+2024-03-07 16:02:01,115: root: INFO: Getting historical prices for GOOG, 1 bars, 
+2024-03-07 16:02:01,115: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,115: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,115: root: INFO: Filled Transaction: buy 10 of GOOG at 136.63999939 USD per share
+2024-03-07 16:02:01,115: root: INFO: market order of | 10 GOOG buy | with status unprocessed was filled
+2024-03-07 16:02:01,116: root: INFO: SwingHigh : Sleeping for 86400 seconds
+2024-03-07 16:02:01,116: root: INFO: SwingHigh : Executing the on_filled_order event method
+2024-03-07 16:02:01,117: root: INFO: Current backtesting datetime 2023-12-09 09:30:00-05:00
+2024-03-07 16:02:01,117: root: INFO: SwingHigh : Executing the on_trading_iteration lifecycle method at 2024-03-07 16:02:01
+2024-03-07 16:02:01,117: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,117: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,117: root: INFO: SwingHigh : Position: 10.000000 shares of GOOG
+2024-03-07 16:02:01,117: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,118: root: WARNING: quote is not implemented for YahooData, but USD was passed as the quote
+2024-03-07 16:02:01,118: root: ERROR: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+2024-03-07 16:02:01,119: root: ERROR: Traceback (most recent call last):
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/strategies/strategy_executor.py", line 808, in run
+    self._run_trading_session()
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/strategies/strategy_executor.py", line 759, in _run_trading_session
+    self._on_trading_iteration()
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/strategies/strategy_executor.py", line 283, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/strategies/strategy_executor.py", line 307, in func_output
+    result = func_input(self, *args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/strategies/strategy_executor.py", line 86, in func_output
+    return func_input(self, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/strategies/strategy_executor.py", line 377, in _on_trading_iteration
+    on_trading_iteration()
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/tools/decorators.py", line 62, in func_output
+    frame, result = call_function_get_frame(func_input, *args, **kwargs)
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nicolas/PycharmProjects/Session 5/venv/Programming_Project/lib/python3.12/site-packages/lumibot/tools/decorators.py", line 30, in call_function_get_frame
+    result = func(*args, **kwargs)
+             ^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/nicolas/PycharmProjects/Programming_Project/momntum_algo_backtest.py", line 35, in on_trading_iteration
+    elif self.get_position(symbol) and self.data >= entry_price * 1.015:
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+
+2024-03-07 16:02:01,119: root: INFO: SwingHigh : Executing the on_bot_crash event method
+2024-03-07 16:02:01,122: root: INFO: SwingHigh : --- SwingHigh Strategy Performance  ---
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : Total Return: 0.00%
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : CAGR 0.00%
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : Volatility 0.00%
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : Sharpe 0.00
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : Max Drawdown 0.00% on 2023-12-02
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : RoMaD 0.00%
+2024-03-07 16:02:01,125: root: INFO: SwingHigh : --- SPY Benchmark Performance ---
+2024-03-07 16:02:01,705: root: INFO: SwingHigh : Total Return: 3.95%
+2024-03-07 16:02:01,705: root: INFO: SwingHigh : SPY CAGR 65.83%
+2024-03-07 16:02:01,705: root: INFO: SwingHigh : SPY Volatility 9.56%
+2024-03-07 16:02:01,705: root: INFO: SwingHigh : SPY Sharpe 6.34
+2024-03-07 16:02:01,705: root: INFO: SwingHigh : SPY Max Drawdown 1.39% on 2023-12-20
+2024-03-07 16:02:01,705: root: INFO: SwingHigh : SPY RoMaD 4,750.75%
+2024-03-07 16:02:01,705: backtest_stats: INFO: Backtest took 0:00:01.147757 for a speed of 0.000
+2024-03-07 16:02:02,230: root: ERROR: Not enough data to create a tearsheet, at least 2 days of data are required. Skipping

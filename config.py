@@ -1,0 +1,10 @@
+API_KEY = "PKWIQ9SIKZYMEDX3CFMK"
+SECRET_KEY = "CA9oFk5AGT04xzZB46CXdAZ3z2uGgfcXw6MX2EwI"
+BASE_URL = "https://paper-api.alpaca.markets/v2"
+
+ALPACA_CONFIG = {
+    "API_KEY": API_KEY,
+    "API_SECRET": SECRET_KEY,
+    "PAPER": True
+}
+
