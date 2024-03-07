@@ -1,2 +1,0 @@
-time,strategy,exchange,symbol,side,type,status,price,filled_quantity,multiplier,trade_cost,time_in_force,asset.right,asset.strike,asset.multiplier,asset.expiration,asset.asset_type
-2020-01-02 09:30:00-05:00,BuyHold,,GOOG,buy,market,fill,68.36849975585938,1503,1,0.0,gtc,,0.0,1,,stock
