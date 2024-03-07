@@ -5,6 +5,10 @@ from lumibot.strategies import Strategy
 
 class BuyOnDrop(Strategy):
     def initialize(self):
+        """
+        Initializes the strategy by setting the trading symbol, entry price,
+        thresholds for buying and selling, and the last close price.
+        """
         self.sleeptime = "1D"  # Trading once a day
         self.symbol = "NVDA"
         self.last_close_price = None  # To store the last day's closing price
@@ -13,10 +17,17 @@ class BuyOnDrop(Strategy):
         self.rise_threshold = 0.025  # 2.5% rise
 
     def on_start(self):
+        """
+        Called at the start of the backtesting or live trading to fetch the
+        initial closing price for the first trading day.
+        """
         # Fetch the initial closing price for the first trading day
         self.last_close_price = self.get_last_price(self.symbol)
 
     def on_trading_iteration(self):
+        """
+        Executes the trading logic once per trading iteration.
+        """
         current_price = self.get_last_price(self.symbol)
 
         # Check if the last closing price is available
